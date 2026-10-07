@@ -4,7 +4,7 @@
       "key": "yingtan",
       "name": "影探",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/rufei/鹰潭/main/yingtan.py",
+      "api": "https://raw.githubusercontent.com/rufengwangshi8/yingtan/main/yingtan.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
